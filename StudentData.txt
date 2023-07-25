@@ -1,0 +1,14 @@
+         Student Data
+====================================
+Serial No.     Name                Roll No
+     
+   1.       Krishna Iyer             22
+   2.       Rashid Khan              39
+   3.     Subhashree Nayak           21
+   4.       Varun Jena               31
+   5.      Pradeep Sarkar            11
+   6.      Shubham Sen               10
+   7.      Neelakshi Kar             32
+   8.      Subhasis Kar              06
+   9.       Saugat Sen               05
+   10.      Ramesh sen               13
